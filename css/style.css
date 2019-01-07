@@ -1,74 +1,83 @@
 body{
 
-   font-family: 'Open Sans', sans-serif;
-  background-image: linear-gradient(to right, red ,orange ,yellow ,green,indigo,violet);
-  opacity: 0.8;
+  font-family: 'Open Sans', sans-serif;
+ /* background-image: linear-gradient(to right,rgb(0, 0, 0),rgb(0, 0, 0),rgb(3, 2, 2),rgb(26, 13, 13),rgb(47, 2, 2) );
+  */
+  background: #0f1219;
 }
+
 header{
-  margin-left:auto;
-  width: 280px;
-  background-color: rgb(11, 8, 8);
-  color:white;
-  font-weight: 400;
+  margin-left:10%;
+  width: 10%;
+  background-color:transparent;
+  color:rgb(109, 48, 48);
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 30px;
 }
 .info{
-  min-width: 200px;;
+  margin-left: 5%;
+  min-width: 200px;
   width:40%;
-  background-color: white;
+  background-color: transparent;
+  
 }
 .box{
-  min-width: 200px;;
+  min-width:200px;
   right:10px;
-  top:100px;
+  top:150px;
   width:50%;
   height:300px;
   position: absolute;
-  background-color: rgba(58, 22, 46, 0.2);
+  background-color: transparent;
 }
 label {
   color:white;
   padding:30px;
 }
-.group1{
-  color:blue;
+.info ul li{
+  color:rgb(106, 112, 126);
+}
+.group1,.group2{
+  color:192A56;
   border:2px solid white;
 }
 span{
   
-  color:rgb(54, 5, 230);
+  color:#192A56;
+  clear: right;
 }
 input{
   height:30px;
+  padding-top:3px;
   width:99%;
+  border:none;
   opacity:0.6;
   color:white;
-  background:rgb(94, 142, 94);
+  background:transparent;
   font-size: 20px;
 }
+
 input::-webkit-input-placeholder{
-  color:yellow;
+  color:white;
   font-size:20px;
 }
-.group2 {
-  color:blue;
-  border:2px solid white;
-}
-button{
 
-  padding:20px;
-  background-color:Green;
-  color:blue;
+button{
+  margin-left: 40%;
+  padding:10px;
+  background-color:blanchedalmond;
+  color:#192A56;
   font-size: 20px;
-  box-shadow: 2px 3px 4px black;
+  box-shadow: 3px 3px 3px black;
   cursor: pointer;
   
 }
 h1{
-  background: black;
+  
   color: white;
 }
 p{
   color: white;
-  background: black;
+  background: transparent;
 }
