@@ -20,7 +20,7 @@ header{
   min-width: 200px;
   width:40%;
   background-color: transparent;
-  
+  margin-top:50px;
 }
 .box{
   min-width:200px;
@@ -43,8 +43,8 @@ label {
   border:2px solid white;
 }
 span{
-  
-  color:#192A56;
+  padding: 2px;
+  color:rgb(95, 23, 23);
   clear: right;
 }
 input{
@@ -56,6 +56,7 @@ input{
   color:white;
   background:transparent;
   font-size: 20px;
+  border-top:1px solid wheat;
 }
 
 input::-webkit-input-placeholder{
