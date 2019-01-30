@@ -3,6 +3,7 @@ body{
   font-family: 'Open Sans', sans-serif;
  /* background-image: linear-gradient(to right,rgb(0, 0, 0),rgb(0, 0, 0),rgb(3, 2, 2),rgb(26, 13, 13),rgb(47, 2, 2) );
   */
+  border:1px solid white;
   background: #0f1219;
 }
 
