@@ -1,6 +1,7 @@
-# Maximus
+# MaxShortener
 
-Check  this out --->https://frtug.github.io/URLShortener/
+Check  this out --->maxshortener.live
+
 
 
 # Working for URL Shorten...
