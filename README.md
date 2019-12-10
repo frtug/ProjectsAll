@@ -1,6 +1,6 @@
-# ProjectsAll
+# Maximus
 
-Check  this out --->https://frtug.github.io/ProjectsAll/
+Check  this out --->https://frtug.github.io/URLShortener/
 
 
 # Working for URL Shorten...
